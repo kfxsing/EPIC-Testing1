@@ -14,9 +14,9 @@
   </CategoryIdentity>
   <LastModifiedDateTime>2025-05-20T13:47:27.983</LastModifiedDateTime>
   <LastModifiedResource>
-    <Id>7863E663079D1C2FDDE2971266262552</Id>
+    <Id>4768DAA616C31D67DEEEF0EA5F189DD7</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Name>tenant1</Name>
+    <Name>tenant2</Name>
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
@@ -226,6 +226,7 @@
       <Version>0</Version>
       <AppType>QuickWorkflow</AppType>
     </QuickApp>
+    <GitFolderName>New package1</GitFolderName>
     <PackageItemAssociations>
       <PackageItemAssociation>
         <Id>B367ACCBB7A5C4F4A21767AC701D5366</Id>

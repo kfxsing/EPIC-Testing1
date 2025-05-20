@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FolderType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>F7F0E52A13AD1BED35C802D5AA339C07</Id>
+    <AutomaticallyPopulate>false</AutomaticallyPopulate>
+    <Version>1</Version>
+    <Name>Folder1</Name>
+  </Identity>
+  <Name>Folder1</Name>
+  <Description />
+  <Status>Released</Status>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>false</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+    <Description />
+  </Category>
+  <LastModifiedDate>2025-05-20T14:52:04.597</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>4768DAA616C31D67DEEEF0EA5F189DD7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedBy>
+    <Id>4768DAA616C31D67DEEEF0EA5F189DD7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>tenant2</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
+  <FieldGroups />
+  <FieldValidators />
+  <FolderValidatorCollection />
+  <ChildFolderTypes>
+    <FolderType>
+      <Identity>
+        <Id>51E30DA89E885274B5219E6ABF3A8178</Id>
+        <AutomaticallyPopulate>false</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Folder a</Name>
+      </Identity>
+      <Name>Folder a</Name>
+      <Description />
+      <Status>Released</Status>
+      <Category>
+        <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name />
+        <Description />
+      </Category>
+      <LastModifiedDate>2025-05-20T14:52:04.597</LastModifiedDate>
+      <LastModifiedUser>
+        <Id>4768DAA616C31D67DEEEF0EA5F189DD7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LastModifiedUser>
+      <LockedBy>
+        <Id>4768DAA616C31D67DEEEF0EA5F189DD7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>tenant2</Name>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LockedBy>
+      <LockedByModule>TotalAgilityDesigner</LockedByModule>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>F20E37063F14726E3DB2A0A0F62AD1B1</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>C60034E63100C8BDC0F8F813D32E95BD</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>false</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+              <IsDefaultValueOverridden>false</IsDefaultValueOverridden>
+              <ValidateValueAgainstChoiceValues>false</ValidateValueAgainstChoiceValues>
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>false</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <FolderValidatorCollection />
+      <ParentFolderType>
+        <Id>F7F0E52A13AD1BED35C802D5AA339C07</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Folder1</Name>
+      </ParentFolderType>
+      <ChildFolderTypes />
+      <NameTemplate>[FolderType]</NameTemplate>
+      <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+      <Forms>
+        <ScanForm>
+          <Id>9B2D98C19FDC403AB2B415828360E6E9</Id>
+          <AutomaticallyPopulate>false</AutomaticallyPopulate>
+          <Name>Folder a_Scan</Name>
+          <Version>1</Version>
+        </ScanForm>
+        <ValidationForm>
+          <Id>2181D8D92D4E408CA374F83238678A99</Id>
+          <AutomaticallyPopulate>false</AutomaticallyPopulate>
+          <Name>Folder a_Validation</Name>
+          <Version>1</Version>
+        </ValidationForm>
+        <VerificationForm>
+          <Id>66E15B35AAFD4DD19254C403814BBEC6</Id>
+          <AutomaticallyPopulate>false</AutomaticallyPopulate>
+          <Name>Folder a_Verification</Name>
+          <Version>1</Version>
+        </VerificationForm>
+        <DocumentReviewForm>
+          <Id>D545B8A1672E421E8865639999117895</Id>
+          <AutomaticallyPopulate>false</AutomaticallyPopulate>
+          <Name>Folder a_DocumentReview_New</Name>
+          <Version>1</Version>
+        </DocumentReviewForm>
+      </Forms>
+      <ResourceAccessTokens />
+      <ResourcePermissionType>FullControl</ResourcePermissionType>
+    </FolderType>
+  </ChildFolderTypes>
+  <NameTemplate>[FolderType]</NameTemplate>
+  <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+  <Forms />
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>FullControl</ResourcePermissionType>
+  <Comments />
+</FolderType>

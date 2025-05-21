@@ -252,6 +252,7 @@
   <LastModifiedUser>
     <Id>7863E663079D1C2FDDE2971266262552</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>tenant1</Name>
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
